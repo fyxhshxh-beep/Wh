@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146046151631",
+    "project_id": "friendcall-b3838",
+    "storage_bucket": "friendcall-b3838.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146046151631:android:26403e0368650aa523c0ba",
+        "android_client_info": {
+          "package_name": "com.friendcall.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj-K7IOI16lHL3W24CXmJEfGCxmqKzgew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
